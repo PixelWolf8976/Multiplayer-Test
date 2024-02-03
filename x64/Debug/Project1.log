@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\C++\Multiplayer-Test\multiuser.h(81,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Project1.vcxproj -> D:\C++\Multiplayer-Test\x64\Debug\Multiplayer-Test.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
